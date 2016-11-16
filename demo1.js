@@ -6,12 +6,10 @@ var BufferHelper = require('bufferhelper');
 
 var fs = require('./fs.js'); //引入读写文件的js
 
-
 var file = "D:\\幽默笑话.txt"; //路径
 
 // fs.writeFile(file);  &#xFFFD;
 // fs.readFile(file);
-
 //                               /yr_joke/628868.htm
 
 function getUrlWriteFile(ulr) {

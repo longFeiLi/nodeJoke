@@ -5,7 +5,6 @@ var BufferHelper = require('bufferhelper');
 var filter = require('./demo1.js'); //引入读写文件的js
 
 var url = 'http://www.haha365.com/joke/index_v_3.htm';
-
 //获取分标题链接赋值给urlData
 function getUrl() {
 	var urlData; 
